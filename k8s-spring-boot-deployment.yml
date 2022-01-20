@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: springboot
-          image: ambhoj10/kubrnates:kubernates
+          image: ambhoj10/kubernates:kubernates
           ports:
             - containerPort: 8080
           env:
